@@ -37,3 +37,10 @@ This is a 100% automated Basket trading MT5 EA
 | **Enterprise** | $50             | - 200 GB Storage                     | <a href="https://fxmath.com/enterprise" class="purchase-button">Contact Sales</a> |
 |                |                 | - 24/7 Support                       |                 |
 |                |                 | - Custom Domain                      |                 |
+
+
+# Watch Our Demo Video
+
+Here’s a quick demo of how FxMath Trade Fusion AI works:
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=BiAqvXAnEVw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
