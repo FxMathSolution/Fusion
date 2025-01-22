@@ -5,8 +5,8 @@ description: >-
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "fusion" # Leave empty if deploying to the root of GitHub Pages
-url: "https://fxmathsolution.github.io/fusion" # Use localhost for local development
+baseurl: "fusion/docs" # Leave empty if deploying to the root of GitHub Pages
+url: "https://fxmathsolution.github.io/fusion/docs" # Use localhost for local development
 twitter_username: fxmath
 github_username: fxmathsolution
 
