@@ -20,12 +20,12 @@ remote_theme: pmarsceill/just-the-docs
 just_the_docs:
   nav_external_links:
     - title: GitHub
-      url: https://github.com/fxmathsolution/fusion
+      url: https://github.com/fxmathsolution/fusion/docs
   search_enabled: true
   search_tokenizer_separator: /[\s\-/]+/
   aux_links:
     - title: GitHub
-      url: https://github.com/fxmathsolution/fusion
+      url: https://github.com/fxmathsolution/fusion/docs
 
 # Exclude from processing
 exclude:
