@@ -25,3 +25,15 @@ This is a 100% automated Basket trading MT5 EA
   <summary><strong>Can beginners use FxMath Trade Fusion AI?</strong></summary>
   Absolutely! FxMath Trade Fusion AI is designed with a user-friendly interface, making it suitable for both beginners and experienced traders.
 </details>
+
+
+| Plan           | Price (Monthly) | Features                             | Action          |
+|----------------|----------------:|--------------------------------------|-----------------|
+| **Basic**      | $10             | - 10 GB Storage                      | <a href="https://fxmath.com/basic" class="purchase-button">Buy Now</a> |
+|                |                 | - Email Support                      |                 |
+| **Pro**        | $25             | - 50 GB Storage                      | <a href="https://fxmath.com/pro" class="purchase-button">Buy Now</a> |
+|                |                 | - Priority Email Support             |                 |
+|                |                 | - Access to Beta Features            |                 |
+| **Enterprise** | $50             | - 200 GB Storage                     | <a href="https://fxmath.com/enterprise" class="purchase-button">Contact Sales</a> |
+|                |                 | - 24/7 Support                       |                 |
+|                |                 | - Custom Domain                      |                 |
