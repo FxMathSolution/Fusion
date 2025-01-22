@@ -6,5 +6,6 @@ nav_order: 2
 ---
 # Getting Started
 
-Welcome to the documentation! Here's how to get started...
+This is a 100% automated Basket trading MT5 EA
 ![Alt text](../assets/images/tt.png)
+
